@@ -19,6 +19,7 @@ SUCCESS_KEYWORDS = [
     "Checkin! Got",                             # 成功获得点数
     "Checkin Repeats! Please Try Tomorrow",     # 旧版重复签到提示
     "Today's observation logged. Return tomorrow for more points.", # 新版重复签到提示
+    "Already checked in today. Come back tomorrow.",       # 最新版重复签到提示
 ]
 
 
